@@ -28,6 +28,10 @@ nav .nav-item {
 	color: rgba(0,0,0,.55) !important;
 }
 
+nav button i{
+	color:#fff;
+}
+
 nav .nav-button{
     margin: 0 auto;
 }
@@ -756,6 +760,10 @@ nav .nav-item {
 
 .navbar-light .navbar-nav .nav-link {
 	color: rgba(0,0,0,.55) !important;
+}
+
+nav button i{
+	color:#fff;
 }
 
 nav .navbar-brand img{
@@ -1511,6 +1519,10 @@ nav .nav-item {
 	color: rgba(0,0,0,.55) !important;
 }
 
+nav button i{
+	color:#fff;
+}
+
 nav .nav-button{
     margin: 0 auto;
 }
@@ -2264,6 +2276,10 @@ nav .navbar-collapse{
 
 nav .nav-item {
 	text-align: center; 
+}
+
+nav button i{
+	color:#fff;
 }
 
 .navbar-light .navbar-nav .nav-link {
@@ -3040,6 +3056,10 @@ nav .nav-item {
 
 .navbar-light .navbar-nav .nav-link {
 	color: rgba(0,0,0,.55) !important;
+}
+
+nav button i{
+	color:#fff;
 }
 
 nav .nav-button{
