@@ -1,0 +1,4494 @@
+@media (min-width:320px) and (max-width:410px){
+   
+    .title {
+        margin-bottom: 40px;
+    }
+    .title h1 {
+        font-size: 30px;
+        line-height: 40.4px;
+    }
+
+    .title p {
+        font-size: 14px;
+    }
+
+/* -------------------------
+         Nav part start
+-------------------------------*/
+nav .navbar-collapse{
+    background: #fff;
+    padding: 15px 0;
+}
+
+nav .nav-item {
+	text-align: center; 
+}
+
+.navbar-light .navbar-nav .nav-link {
+	color: rgba(0,0,0,.55) !important;
+}
+
+nav .nav-button{
+    margin: 0 auto;
+}
+
+nav .navbar-brand img{
+    width: 65%;
+    margin-top: -5px;
+} 
+
+.navbar-light .navbar-toggler {
+	color: rgba(0,0,0,.55);
+	border-color: rgba(0,0,0,.1);
+}
+
+.navbar-light .navbar-toggler {
+	border-color:transparent !important;
+}
+
+.navbar-toggler:focus {
+	text-decoration: none;
+	outline: 0;
+	box-shadow: 0 0 0;
+}
+
+.navbar-toggler-icon {
+	width: 27px;
+    margin-top: 5px;
+}
+
+.nav-scroll {
+	padding: 2px 0;
+}
+
+/* -------------------------
+         Nav part end
+-------------------------------*/
+
+/* -------------------------
+        banner part start
+-------------------------------*/
+#banner-part{
+    margin-bottom: 580px;
+}
+
+#banner-part .overlay .text-part h3 {
+	font-size: 22px;
+	line-height: 21.2px;
+	color: rgb(25, 25, 25);
+	margin-bottom: 20px;
+}
+
+#banner-part .overlay .text-part h1 {
+	font-size: 30px;
+	line-height: 40.8px;
+	color:#f26d7d;
+	margin-bottom: 25px;
+	padding-right:0px;
+}
+#banner-part .overlay .text-part .button {
+	width: 120px;
+	padding: 10px 15px;
+	font-size: 14px;
+	line-height: 20px;
+	text-align: center;
+}
+
+.slick-slide img {
+	width: 55%;
+    margin: 0 auto;
+}
+#banner-part .overlay .phn-img {
+	margin-top: 15px;
+}
+/* -------------------------
+         banner part end
+-------------------------------*/
+
+/* -------------------------
+         Work part end
+-------------------------------*/
+
+#work-part {
+	margin-bottom: 10px;
+}
+
+#work-part .item .img .shape img {
+	width: 60%;
+}
+
+#work-part .item .img .shape {
+	width: 80px;
+	height: 82px;
+	margin-bottom: 20px;
+}
+
+#work-part .item h4 {
+	font-size: 18px;
+	line-height: 22px;
+	margin-bottom: 15px;
+}
+
+#work-part .item p {
+	font-size: 14px;
+	line-height: 21px;
+}
+
+#work-part .item .img .shape-two img {
+	width: 55%;
+}
+
+#work-part .item .img .shape-two {
+	width: 80px;
+	height: 76px;
+	margin-bottom: 20px;
+}
+
+#work-part .item .img .shape-three img {
+	width: 50%;
+}
+
+#work-part .item .img .shape-three {
+	width: 82px;
+	height: 65px;
+	margin-bottom: 20px;
+}
+
+/* -------------------------
+         Work part end
+-------------------------------*/
+
+/* -------------------------
+     Brand part start
+-------------------------------*/
+
+#brand-part {
+	margin-bottom: 50px;
+	padding: 20px 0;
+
+}
+
+#brand-part .brand-slider .brand .img-one{
+    width: 90%;
+}
+
+#brand-part .brand-slider .brand img {
+	margin-left: 10px;
+	margin-bottom: 10px;
+    width: 65%;
+}
+
+/* -------------------------
+     Brand part end
+-------------------------------*/
+
+/* -------------------------
+     Device part start
+-------------------------------*/
+
+#device-part {
+	margin-bottom: 50px;
+	padding-top: 50px;
+}
+
+#device-part .nav-tabs button {
+	font-size: 17px;
+}
+
+#device-part .nav-tabs .nav-link.active::after {
+	width: 68%;
+	height: 2px;
+	bottom: 2px;
+	left: 16px;
+}
+
+#device-part .tab-content {
+	padding-top: 0px;
+}
+
+#device-part .tab-content img{
+	width: 100%;
+}
+
+#device-part .tab-content .tablet-img{
+    width: 60%;
+}
+
+#device-part .tab-content .phone-img{
+    width: 60%;
+}
+
+#device-part .bg-clr {
+	background: none;
+}
+
+/* -------------------------
+     Device part end
+-------------------------------*/
+
+/* -------------------------
+     AppStorm part start
+-------------------------------*/
+#appstorm-part {
+	margin-bottom: 50px;
+}
+
+#appstorm-part .title h1 {
+	text-align: center;
+}
+
+#appstorm-part .details-part p {
+	font-size: 14px;
+	line-height: 22px;
+	width: auto;
+	text-align: justify;
+}
+
+#appstorm-part .details-part .button {
+	width: 130px;
+	font-size: 13px;
+	padding: 8px 9px;
+	margin-bottom: 35px;
+	text-align: center;
+}
+
+/* -------------------------
+     AppStorm part end
+-------------------------------*/
+
+/* -------------------------
+     Features part start
+-------------------------------*/
+
+#features-part {
+	background: none;
+}
+
+#features-part .reverse{
+    flex-direction: column-reverse;
+}
+
+#features-part .details-part {
+	padding-top: 10px;
+	margin-left: 0px;
+	text-align: center;
+}
+
+#features-part .details-part .title h1 {
+	text-align: center;
+}
+
+#features-part .details-part p {
+	font-size: 14px;
+	line-height: 21px;
+	margin-bottom: 20px;
+	width: auto;
+}
+
+#features-part .accordion-body {
+	font-size: 14px;
+	line-height: 23px;
+	padding: 0;
+	text-align: justify;
+}
+
+.accordion-flush .accordion-item .accordion-button {
+	justify-content: center;
+}
+
+#features-part .img-part {
+	padding-top: 60px;
+}
+
+#features-part .img-part .top-img {
+	top: 25px;
+	left: 46%;
+	width: 40%;
+}
+
+#features-part .img-part .bottom-img {
+	bottom: -30px;
+	left: -7px;
+	width: 40%;
+}
+
+/* -------------------------
+     Features part end
+-------------------------------*/
+
+
+/* -------------------------
+     Subscribe part start
+-------------------------------*/
+
+#subscribe-part {
+	padding: 30px 0;
+	margin-bottom: 50px;
+}
+
+#subscribe-part h3 {
+	font-size: 20px;
+	text-align: center;
+	padding: 0 20px;
+}
+
+.input__field {
+	padding: 5px;
+}
+
+.input__label {
+	top: -12%;
+}
+
+.input__field:focus + .input__label, .input__field:not(:placeholder-shown) + .input__label {
+    transform: translate(-.70rem, -75%) scale(0.8);
+    font-size:13px ;
+}
+
+#subscribe-part .button {
+	width: 110px;
+	font-size: 14px;
+	padding: 7px 10px;
+	margin-top: 15px !important;
+	margin: 0 auto;
+}
+
+/* -------------------------
+     Subscribe part end
+-------------------------------*/
+
+/* -------------------------
+     Price part end
+-------------------------------*/
+#price-part {
+	margin-bottom: 30px;
+}
+
+#price-part .item {
+	margin-bottom: 50px;
+}
+
+#price-part .item .header h5 {
+	padding: 10px 0;
+}
+
+#price-part .item .price {
+	padding: 22px 0;
+}
+
+#price-part .item .price h3 {
+	font-size: 22px;
+}
+
+#price-part .item .price p {
+	font-size: 11px;
+	margin-bottom: 0px;
+}
+
+#price-part .item ul li {
+	font-size: 13px;
+	padding: 0px 0;
+}
+
+#price-part .item .price-button .button {
+	width: 120px;
+	font-size: 14px;
+	padding: 5px 5px;
+}
+
+#price-part .item-two .header h5 {
+	padding: 10px 0;
+}
+
+#price-part .item-two .price {
+	padding: 22px 0;
+}
+
+#price-part .item-two .price h3 span {
+	font-size: 15.5px;
+}
+
+#price-part .item-two .price h3 {
+	font-size: 22px;
+}
+
+#price-part .item-two .price p {
+	font-size: 11px;
+	margin-bottom: 0px;
+}
+
+#price-part .item-two ul li {
+	font-size: 13px;
+	padding: 0px 0;
+}
+
+#price-part .item-two .price-button {
+	padding-bottom: 25px;
+	padding-top: 0px;
+}
+
+/* -------------------------
+     Price part end
+-------------------------------*/
+
+/* -------------------------
+     Clients part start
+-------------------------------*/
+#client-part {
+	margin-bottom: 50px;
+}
+
+#client-part .client-slider .client .img {
+	height: 100px;
+}
+
+#client-part .client-slider .client .img img {
+	width: 80px;
+	height: 80px;
+}
+
+#client-part .client-slider {
+	width: 100%;
+}
+
+#client-part .client-slider .client {
+	padding-bottom: 15px;
+}
+
+#client-part .client-slider .client .img .shape-icon {
+	width: 30px;
+	height: 30px;
+	line-height: 30px;
+    top: 75px;
+left: 59%;
+border-top-left-radius: 2px;
+}
+
+#client-part .client-slider .client .img .shape-icon i {
+	font-size: 16px;
+}
+
+#client-part .client-slider .client p {
+	font-size: 14px;
+	line-height: 22px;
+	padding: 0 0px;
+	margin-bottom: 10px;
+}
+
+#client-part .client-slider .client .identity h4 {
+	font-size: 17px;
+	margin-bottom: 5px;
+}
+
+#client-part .client-slider .client .identity h6 {
+	font-size: 14px;
+}
+
+#client-part .slick-dots li button {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+/* -------------------------
+     Clients part end
+-------------------------------*/
+
+/* -------------------------
+     Gallery part start
+-------------------------------*/
+
+#gallery-part {
+	padding: 50px 0;
+	background-image:none;
+}
+
+#gallery-part::after {
+	display: none;
+}
+
+#gallery-part .gallery-img .img {
+	margin: 0px;
+	width: 100%;
+}
+
+#gallery-part .gallery-img img {
+	margin-bottom: 15px;
+}
+
+#gallery-part .prev {
+	width: 20px;
+	height: 20px;
+	line-height: 20px;
+	font-size: 14px;
+	top:110% ;
+	left: 135px;
+}
+
+#gallery-part .next {
+	width: 20px;
+	height: 20px;
+	line-height: 20px;
+	font-size: 14px;
+	top:110% ;
+	right:130px;
+}
+
+#gallery-part .slick-slider .slick-list {
+    margin: 0 50px;
+    margin-bottom: 10px;
+    padding: 0 !important;
+}
+
+/* -------------------------
+     Gallery part end
+-------------------------------*/
+
+/* -------------------------
+     Organize part start
+-------------------------------*/
+#organize-part {
+	padding: 50px 0;
+}
+
+#organize-part .title h1{
+    text-align: left;
+    font-size: 27px;
+}
+
+#organize-part .item .iner-item {
+	text-align: center;
+}
+
+#organize-part .phn-bg {
+	width: 70%;
+	margin: 0 auto;
+}
+
+#organize-part .item .iner-item {
+	text-align: center !important;
+}
+
+/* -------------------------
+     Organize part end
+-------------------------------*/
+
+/* -------------------------
+     Store part start
+-------------------------------*/
+
+#store-part .blue-bg .white-bg {
+	padding: 15px 15px;
+}
+
+#store-part .blue-bg {
+	width: auto;
+	border-radius: 100px;
+	margin: 0 auto;
+	padding: 20px 20px;
+}
+
+#store-part .sm-res{
+    width: 48%;
+}
+
+#store-part .blue-bg .white-bg .img img{
+    width: 100%;
+}
+
+/* -------------------------
+     Store part end
+-------------------------------*/
+
+/* -------------------------
+     Team part end
+-------------------------------*/
+
+#team-part {
+	padding: 50px 0;
+}
+
+#team-part .title {
+	justify-content: center;
+}
+
+#team-part .item {
+	margin-bottom: 20px;
+}
+
+#team-part .item .identity {
+	padding: 27px;
+}
+
+/* -------------------------
+     Team part end
+-------------------------------*/
+
+/* -------------------------
+     Counter part start
+-------------------------------*/
+
+#counter-part .item {
+	padding: 15px 0;
+}
+
+#counter-part .item h1 {
+	font-size: 30px;
+	line-height: 40.6px;
+	margin-bottom: 5px;
+}
+
+#counter-part .item p {
+	font-size: 20px;
+	line-height: 12.2px;
+}
+
+/* -------------------------
+     Counter part end
+-------------------------------*/
+
+/* -------------------------
+     Footer part start
+-------------------------------*/
+
+#footer-part .overlay .footer-box {
+	padding: 10px;
+}
+
+#footer-part .overlay .footer-box .details{
+    text-align: center;
+}
+
+#footer-part .overlay .footer-box .details h3 {
+	font-size: 24px;
+	margin-bottom: 15px;
+}
+
+#footer-part .overlay .footer-box .details address figure {
+	font-size: 14px;
+	margin-bottom: 10px;
+}
+
+#footer-part .overlay .footer-box .form{
+    margin-top: 20px;
+}
+
+#footer-part .overlay .footer-box .form h3 {
+	font-size: 24px;
+	margin-bottom: 15px;
+    text-align: center;
+}
+
+#footer-part .overlay .footer-box .form .mb-3 .form-control {
+	font-size: 13px;
+	padding: 5px 10px;
+}
+
+#footer-part .overlay .footer-box .form .message-form .form-control {
+	padding: 0px 12px;
+}
+
+#footer-part .overlay .footer-box .form .footer-button {
+	display: flex;
+	justify-content:center;
+}
+
+#footer-part .overlay .footer-box .form .footer-button .button {
+	width: 135px;
+	font-size: 13px;
+	padding: 8px 2px;
+	margin-bottom: 10px;
+}
+
+#footer-part .copy-right span {
+	font-family: 'Poppins', sans-serif;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+	color: rgba(0, 0, 0, .7);
+}
+
+
+.top-button {
+    bottom: 108px;
+    right: 25px;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    font-size: 17px;
+}
+
+/* -------------------------
+     Footer part end
+-------------------------------*/
+
+
+/* ============================== */
+}
+
+
+@media (min-width:412px) and (max-width:490px){
+   
+    .title {
+        margin-bottom: 30px;
+    }
+    .title h1 {
+        font-size: 30px;
+        line-height: 40.4px;
+    }
+
+    .title p {
+        font-size: 14px;
+        padding: 0 20px;
+    }
+
+/* -------------------------
+         Nav part start
+-------------------------------*/
+
+nav .navbar-collapse{
+    background: #fff;
+    padding: 15px 0;
+}
+
+nav .nav-item {
+	text-align: center; 
+}
+
+.navbar-light .navbar-nav .nav-link {
+	color: rgba(0,0,0,.55) !important;
+}
+
+nav .navbar-brand img{
+    width: 65%;
+    margin-top: -5px;
+} 
+
+.navbar-light .navbar-toggler {
+	color: rgba(0,0,0,.55);
+	border-color: rgba(0,0,0,.1);
+}
+
+.navbar-light .navbar-toggler {
+	border-color:transparent !important;
+}
+
+.navbar-toggler:focus {
+	text-decoration: none;
+	outline: 0;
+	box-shadow: 0 0 0;
+}
+
+.navbar-toggler-icon {
+	width: 27px;
+    margin-top: 5px;
+}
+
+nav .nav-button{
+    margin: 0 auto;
+}
+
+.nav-scroll {
+	padding: 2px 0;
+}
+
+/* -------------------------
+         Nav part end
+-------------------------------*/
+
+/* -------------------------
+        banner part start
+-------------------------------*/
+#banner-part{
+    margin-bottom: 650px;
+}
+
+#banner-part .overlay .text-part h3 {
+	font-size: 22px;
+	line-height: 21.2px;
+	color: rgb(25, 25, 25);
+	margin-bottom: 15px;
+}
+
+#banner-part .overlay .text-part {
+	margin-top: 265px;
+    text-align: center;
+}
+
+#banner-part .overlay .text-part h1 {
+	font-size: 30px;
+	line-height: 40.8px;
+	color: #f26d7d;
+	margin-bottom: 25px;
+	padding-right: 0px;
+	padding: 0 30px;
+}
+
+#banner-part .overlay .text-part .banner-button {
+	width: 120px;
+    margin: 0 auto;
+}
+
+#banner-part .overlay .text-part .button {
+	width: 120px;
+	padding: 10px 15px;
+	font-size: 14px;
+	line-height: 20px;
+	text-align: center;
+}
+
+.slick-slide img {
+	width: 55%;
+    margin: 0 auto;
+}
+#banner-part .overlay .phn-img {
+	margin-top: 15px;
+}
+/* -------------------------
+         banner part end
+-------------------------------*/
+
+/* -------------------------
+         Work part end
+-------------------------------*/
+
+#work-part {
+	margin-bottom: 10px;
+}
+
+#work-part .item .img .shape img {
+	width: 60%;
+}
+
+#work-part .item .img .shape {
+	width: 80px;
+	height: 82px;
+	margin-bottom: 20px;
+}
+
+#work-part .item h4 {
+	font-size: 18px;
+	line-height: 22px;
+	margin-bottom: 15px;
+}
+
+#work-part .item p {
+	font-size: 14px;
+	line-height: 21px;
+}
+
+#work-part .item .img .shape-two img {
+	width: 55%;
+}
+
+#work-part .item .img .shape-two {
+	width: 80px;
+	height: 76px;
+	margin-bottom: 20px;
+}
+
+#work-part .item .img .shape-three img {
+	width: 50%;
+}
+
+#work-part .item .img .shape-three {
+	width: 82px;
+	height: 65px;
+	margin-bottom: 20px;
+}
+
+/* -------------------------
+         Work part end
+-------------------------------*/
+
+/* -------------------------
+     Brand part start
+-------------------------------*/
+
+#brand-part {
+	margin-bottom: 50px;
+	padding: 20px 0;
+
+}
+
+#brand-part .brand-slider .brand .img-one{
+    width: 90%;
+}
+
+#brand-part .brand-slider .brand img {
+	margin-left: 20px;
+	margin-bottom: 10px;
+    width: 65%;
+}
+
+/* -------------------------
+     Brand part end
+-------------------------------*/
+
+/* -------------------------
+     Device part start
+-------------------------------*/
+
+#device-part {
+	margin-bottom: 50px;
+	padding-top: 50px;
+}
+
+#device-part .nav-tabs button {
+	font-size: 17px;
+}
+
+#device-part .nav-tabs .nav-link.active::after {
+	width: 68%;
+	height: 2px;
+	bottom: 2px;
+	left: 16px;
+}
+
+#device-part .tab-content {
+	padding-top: 0px;
+}
+
+#device-part .tab-content img{
+	width: 100%;
+}
+
+#device-part .tab-content .tablet-img{
+    width: 60%;
+}
+
+#device-part .tab-content .phone-img{
+    width: 60%;
+}
+
+#device-part .bg-clr {
+	background: none;
+}
+
+/* -------------------------
+     Device part end
+-------------------------------*/
+
+/* -------------------------
+     AppStorm part start
+-------------------------------*/
+#appstorm-part {
+	margin-bottom: 50px;
+}
+
+#appstorm-part .title h1 {
+	text-align: center;
+}
+
+#appstorm-part .details-part p {
+	font-size: 14px;
+	line-height: 22px;
+	width: auto;
+	text-align: justify;
+}
+
+#appstorm-part .details-part .appstorm-button {
+	width: 130px;
+}
+
+#appstorm-part .details-part .button {
+	width: 130px;
+	font-size: 13px;
+	padding: 8px 9px;
+	margin-bottom: 35px;
+	text-align: center;
+}
+
+/* -------------------------
+     AppStorm part end
+-------------------------------*/
+
+/* -------------------------
+     Features part start
+-------------------------------*/
+
+#features-part {
+	background: none;
+}
+
+#features-part .reverse{
+    flex-direction: column-reverse;
+}
+
+#features-part .details-part {
+	padding-top: 10px;
+	margin-left: 0px;
+	text-align: center;
+}
+
+#features-part .details-part .title h1 {
+	text-align: center;
+}
+
+#features-part .details-part p {
+	font-size: 14px;
+	line-height: 21px;
+	margin-bottom: 20px;
+	width: auto;
+}
+
+#features-part .accordion-body {
+	font-size: 14px;
+	line-height: 23px;
+	padding: 0;
+	text-align: justify;
+}
+
+.accordion-flush .accordion-item .accordion-button {
+	justify-content: center;
+}
+
+#features-part .img-part {
+	padding-top: 60px;
+}
+
+#features-part .img-part .top-img {
+	top: 25px;
+	left: 46%;
+	width: 40%;
+}
+
+#features-part .img-part .bottom-img {
+	bottom: -30px;
+	left: -7px;
+	width: 40%;
+}
+
+/* -------------------------
+     Features part end
+-------------------------------*/
+
+
+/* -------------------------
+     Subscribe part start
+-------------------------------*/
+
+#subscribe-part {
+	padding: 30px 0;
+	margin-bottom: 50px;
+}
+
+#subscribe-part h3 {
+	font-size: 20px;
+	text-align: center;
+	padding: 0 20px;
+}
+
+.input__field {
+	padding: 5px;
+}
+
+.input__label {
+	top: -12%;
+}
+
+.input__field:focus + .input__label, .input__field:not(:placeholder-shown) + .input__label {
+    transform: translate(-.70rem, -75%) scale(0.8);
+    font-size:13px ;
+}
+
+#subscribe-part .subscribe-button {
+	width: 110px;
+    margin: 0 auto;
+}
+
+#subscribe-part .button {
+	width: 110px;
+	font-size: 14px;
+	padding: 7px 10px;
+	margin-top: 15px;
+	
+}
+
+/* -------------------------
+     Subscribe part end
+-------------------------------*/
+
+/* -------------------------
+     Price part end
+-------------------------------*/
+#price-part {
+	margin-bottom: 30px;
+}
+
+#price-part .item {
+	margin-bottom: 50px;
+}
+
+#price-part .item .header h5 {
+	padding: 10px 0;
+}
+
+#price-part .item .price {
+	padding: 22px 0;
+}
+
+#price-part .item .price h3 {
+	font-size: 22px;
+}
+
+#price-part .item .price p {
+	font-size: 11px;
+	margin-bottom: 0px;
+}
+
+#price-part .item ul li {
+	font-size: 13px;
+	padding: 0px 0;
+}
+
+#price-part .item .price-button .button {
+	width: 120px;
+	font-size: 14px;
+	padding: 5px 5px;
+}
+
+#price-part .item-two .header h5 {
+	padding: 10px 0;
+}
+
+#price-part .item-two .price {
+	padding: 22px 0;
+}
+
+#price-part .item-two .price h3 span {
+	font-size: 15.5px;
+}
+
+#price-part .item-two .price h3 {
+	font-size: 22px;
+}
+
+#price-part .item-two .price p {
+	font-size: 11px;
+	margin-bottom: 0px;
+}
+
+#price-part .item-two ul li {
+	font-size: 13px;
+	padding: 0px 0;
+}
+
+#price-part .item-two .price-button {
+	padding-bottom: 25px;
+	padding-top: 0px;
+}
+
+/* -------------------------
+     Price part end
+-------------------------------*/
+
+/* -------------------------
+     Clients part start
+-------------------------------*/
+#client-part {
+	margin-bottom: 50px;
+}
+
+#client-part .client-slider .client .img {
+	height: 100px;
+}
+
+#client-part .client-slider .client .img img {
+	width: 80px;
+	height: 80px;
+}
+
+#client-part .client-slider {
+	width: 100%;
+}
+
+#client-part .client-slider .client {
+	padding-bottom: 15px;
+}
+
+#client-part .client-slider .client .img .shape-icon {
+	width: 30px;
+	height: 30px;
+	line-height: 30px;
+    top: 75px;
+left: 59%;
+border-top-left-radius: 2px;
+}
+
+#client-part .client-slider .client .img .shape-icon i {
+	font-size: 16px;
+}
+
+#client-part .client-slider .client p {
+	font-size: 14px;
+	line-height: 22px;
+	padding: 0 0px;
+	margin-bottom: 10px;
+}
+
+#client-part .client-slider .client .identity h4 {
+	font-size: 17px;
+	margin-bottom: 5px;
+}
+
+#client-part .client-slider .client .identity h6 {
+	font-size: 14px;
+}
+
+#client-part .slick-dots li button {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+/* -------------------------
+     Clients part end
+-------------------------------*/
+
+/* -------------------------
+     Gallery part start
+-------------------------------*/
+
+#gallery-part {
+	padding: 50px 0;
+	background-image:none;
+}
+
+#gallery-part::after {
+	display: none;
+}
+
+#gallery-part .gallery-img .img {
+	margin: 0px;
+	width: 100%;
+}
+
+#gallery-part .gallery-img img {
+	margin-bottom: 15px;
+}
+
+#gallery-part .prev {
+	width: 20px;
+	height: 20px;
+	line-height: 20px;
+	font-size: 14px;
+	top:110% ;
+	left: 175px;
+}
+
+#gallery-part .next {
+	width: 20px;
+	height: 20px;
+	line-height: 20px;
+	font-size: 14px;
+	top:110% ;
+	right:170px;
+}
+
+#gallery-part .slick-slider .slick-list {
+    margin: 0 50px;
+    margin-bottom: 10px;
+    padding: 0 !important;
+}
+
+/* -------------------------
+     Gallery part end
+-------------------------------*/
+
+/* -------------------------
+     Organize part start
+-------------------------------*/
+#organize-part {
+	padding: 50px 0;
+}
+
+#organize-part .title h1{
+    font-size: 27px;
+}
+
+#organize-part .item .iner-item {
+	text-align: center;
+}
+
+#organize-part .phn-bg {
+	width: 70%;
+	margin: 0 auto;
+}
+
+#organize-part .item .iner-item {
+	text-align: center !important;
+}
+
+/* -------------------------
+     Organize part end
+-------------------------------*/
+
+/* -------------------------
+     Store part start
+-------------------------------*/
+
+#store-part .blue-bg .white-bg {
+	padding: 15px 15px;
+}
+
+#store-part .blue-bg {
+	width: auto;
+	border-radius: 100px;
+	margin: 0 auto;
+	padding: 20px 20px;
+}
+
+#store-part .sm-res{
+    width: 48%;
+}
+
+#store-part .blue-bg .white-bg .img img{
+    width: 100%;
+}
+
+/* -------------------------
+     Store part end
+-------------------------------*/
+
+/* -------------------------
+     Team part end
+-------------------------------*/
+
+#team-part {
+	padding: 50px 0;
+}
+
+#team-part .title {
+	justify-content: center;
+}
+
+#team-part .item {
+	margin-bottom: 20px;
+}
+
+#team-part .item .identity {
+	padding: 27px;
+}
+
+/* -------------------------
+     Team part end
+-------------------------------*/
+
+/* -------------------------
+     Counter part start
+-------------------------------*/
+
+#counter-part .item {
+	padding: 15px 0;
+}
+
+#counter-part .item h1 {
+	font-size: 30px;
+	line-height: 40.6px;
+	margin-bottom: 5px;
+}
+
+#counter-part .item p {
+	font-size: 20px;
+	line-height: 12.2px;
+}
+
+#counter-part .item .dot {
+	display: none;
+}
+
+/* -------------------------
+     Counter part end
+-------------------------------*/
+
+/* -------------------------
+     Footer part start
+-------------------------------*/
+
+#footer-part .overlay .footer-box {
+	padding: 10px;
+}
+
+#footer-part .overlay .footer-box .details{
+    text-align: center;
+}
+
+#footer-part .overlay .footer-box .details h3 {
+	font-size: 24px;
+	margin-bottom: 15px;
+}
+
+#footer-part .overlay .footer-box .details address figure {
+	font-size: 14px;
+	margin-bottom: 10px;
+}
+
+#footer-part .overlay .footer-box .form{
+    margin-top: 20px;
+}
+
+#footer-part .overlay .footer-box .form h3 {
+	font-size: 24px;
+	margin-bottom: 15px;
+    text-align: center;
+}
+
+#footer-part .overlay .footer-box .form .mb-3 .form-control {
+	font-size: 13px;
+	padding: 5px 10px;
+}
+
+#footer-part .overlay .footer-box .form .message-form .form-control {
+	padding: 0px 12px;
+}
+
+#footer-part .overlay .footer-box .form .footer-button {
+	display: flex;
+	justify-content:center;
+}
+
+#footer-part .overlay .footer-box .form .footer-button .button {
+	width: 135px;
+	font-size: 13px;
+	padding: 8px 2px;
+	margin-bottom: 10px;
+}
+
+#footer-part .copy-right span {
+	font-family: 'Poppins', sans-serif;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+	color: rgba(0, 0, 0, .7);
+}
+
+.top-button {
+    bottom: 108px;
+    right: 25px;
+    width: 35px;
+    height: 35px;
+    border-radius: 40px;
+    line-height: 35px;
+    font-size: 18px;
+}
+
+/* -------------------------
+     Footer part end
+-------------------------------*/
+
+
+/* ============================== */
+}
+
+
+@media (min-width:491px) and (max-width:575px){
+   
+    .title {
+        margin-bottom: 30px;
+    }
+    .title h1 {
+        font-size: 30px;
+        line-height: 40.4px;
+    }
+
+    .title p {
+        font-size: 14px;
+        padding: 0 20px;
+    }
+
+/* -------------------------
+         Nav part start
+-------------------------------*/
+nav .navbar-collapse{
+    background: #fff;
+    padding: 15px 0;
+}
+
+nav .nav-item {
+	text-align: center; 
+}
+
+.navbar-light .navbar-nav .nav-link {
+	color: rgba(0,0,0,.55) !important;
+}
+
+nav .nav-button{
+    margin: 0 auto;
+}
+
+nav .navbar-brand img{
+    width: 65%;
+    margin-top: -5px;
+} 
+
+.navbar-light .navbar-toggler {
+	color: rgba(0,0,0,.55);
+	border-color: rgba(0,0,0,.1);
+}
+
+.navbar-light .navbar-toggler {
+	border-color:transparent !important;
+}
+
+.navbar-toggler:focus {
+	text-decoration: none;
+	outline: 0;
+	box-shadow: 0 0 0;
+}
+
+.navbar-toggler-icon {
+	width: 27px;
+    margin-top: 5px;
+}
+
+.nav-scroll {
+	padding: 2px 0;
+}
+
+/* -------------------------
+         Nav part end
+-------------------------------*/
+
+/* -------------------------
+        banner part start
+-------------------------------*/
+#banner-part{
+    margin-bottom: 460px;
+}
+
+#banner-part .overlay .text-part h3 {
+	font-size: 20px;
+	line-height: 21.2px;
+	margin-bottom: 12px;
+}
+
+#banner-part .overlay .text-part {
+	margin-top: 85px;
+}
+
+#banner-part .overlay .text-part h1 {
+	font-size: 25px;
+	line-height: 32.8px;
+	color: #fff;
+	margin-bottom: 20px;
+	padding-right: 255px;
+	
+}
+
+#banner-part .overlay .text-part .banner-button {
+	width: 108px;
+}
+
+#banner-part .overlay .text-part .button {
+	width: 108px;
+	padding: 6px 14px;
+	font-size: 14px;
+	line-height: 20px;
+	text-align: center;
+}
+
+.slick-slide img {
+	width: 45%;
+    margin: 0 auto;
+}
+#banner-part .overlay .phn-img {
+	margin-top: 70px;
+}
+/* -------------------------
+         banner part end
+-------------------------------*/
+
+/* -------------------------
+         Work part end
+-------------------------------*/
+
+#work-part {
+	margin-bottom: 10px;
+}
+
+#work-part .item .img .shape img {
+	width: 60%;
+}
+
+#work-part .item .img .shape {
+	width: 81px;
+	height: 83px;
+	margin-bottom: 20px;
+}
+
+#work-part .item h4 {
+	font-size: 18px;
+	line-height: 22px;
+	margin-bottom: 15px;
+}
+
+#work-part .item p {
+	font-size: 14px;
+	line-height: 21px;
+    padding: 0 72px;
+}
+
+#work-part .item .img .shape-two img {
+	width: 55%;
+}
+
+#work-part .item .img .shape-two {
+	width: 80px;
+	height: 76px;
+	margin-bottom: 20px;
+}
+
+#work-part .item .img .shape-three img {
+	width: 50%;
+}
+
+#work-part .item .img .shape-three {
+	width: 83px;
+	height: 66px;
+	margin-bottom: 20px;
+}
+
+/* -------------------------
+         Work part end
+-------------------------------*/
+
+/* -------------------------
+     Brand part start
+-------------------------------*/
+
+#brand-part {
+	margin-bottom: 50px;
+	padding: 20px 0;
+
+}
+
+#brand-part .brand-slider .brand .img-one{
+    width: 90%;
+}
+
+#brand-part .brand-slider .brand img {
+	margin-left: 20px;
+	margin-bottom: 10px;
+    width: 65%;
+}
+
+/* -------------------------
+     Brand part end
+-------------------------------*/
+
+/* -------------------------
+     Device part start
+-------------------------------*/
+
+#device-part {
+	margin-bottom: 50px;
+	padding-top: 50px;
+}
+
+#device-part .nav-tabs button {
+	font-size: 17px;
+}
+
+#device-part .nav-tabs .nav-link.active::after {
+	width: 68%;
+	height: 2px;
+	bottom: 2px;
+	left: 16px;
+}
+
+#device-part .tab-content {
+	padding-top: 0px;
+}
+
+#device-part .tab-content img{
+	width: 100%;
+}
+
+#device-part .tab-content .tablet-img{
+    width: 60%;
+}
+
+#device-part .tab-content .phone-img{
+    width: 60%;
+}
+
+#device-part .bg-clr {
+	background: none;
+}
+
+/* -------------------------
+     Device part end
+-------------------------------*/
+
+/* -------------------------
+     AppStorm part start
+-------------------------------*/
+#appstorm-part {
+	margin-bottom: 50px;
+}
+
+#appstorm-part .title h1 {
+	text-align: center;
+}
+
+#appstorm-part .details-part p {
+	font-size: 14px;
+	line-height: 22px;
+	width: auto;
+	text-align: justify;
+}
+
+#appstorm-part .details-part .appstorm-button {
+	width: 130px;
+}
+
+#appstorm-part .details-part .button {
+	width: 130px;
+	font-size: 13px;
+	padding: 8px 9px;
+	margin-bottom: 35px;
+	text-align: center;
+}
+
+/* -------------------------
+     AppStorm part end
+-------------------------------*/
+
+/* -------------------------
+     Features part start
+-------------------------------*/
+
+#features-part {
+	background: none;
+    margin-bottom: 130px;
+}
+
+#features-part .reverse{
+    flex-direction: column-reverse;
+}
+
+#features-part .details-part {
+	padding-top: 10px;
+	margin-left: 0px;
+	text-align: center;
+}
+
+#features-part .details-part .title h1 {
+	text-align: center;
+}
+
+#features-part .details-part p {
+	font-size: 14px;
+	line-height: 21px;
+	margin-bottom: 20px;
+	width: auto;
+}
+
+#features-part .accordion-body {
+	font-size: 14px;
+	line-height: 23px;
+	padding: 0;
+	text-align: justify;
+}
+
+.accordion-flush .accordion-item .accordion-button {
+	justify-content: center;
+}
+
+#features-part .img-part {
+	padding-top: 80px;
+}
+
+#features-part .img-part .top-img {
+	top: 40px;
+	left: 46%;
+	width: 40%;
+}
+
+#features-part .img-part .bottom-img {
+	bottom: -30px;
+	left: -7px;
+	width: 40%;
+}
+
+/* -------------------------
+     Features part end
+-------------------------------*/
+
+
+/* -------------------------
+     Subscribe part start
+-------------------------------*/
+
+#subscribe-part {
+	padding: 30px 0;
+	margin-bottom: 50px;
+}
+
+#subscribe-part h3 {
+	font-size: 20px;
+	text-align: center;
+	padding: 0 20px;
+}
+
+.input__field {
+	padding: 5px;
+}
+
+.input__label {
+	top: -12%;
+}
+
+.input__field:focus + .input__label, .input__field:not(:placeholder-shown) + .input__label {
+    transform: translate(-.70rem, -75%) scale(0.8);
+    font-size:13px ;
+}
+
+#subscribe-part .subscribe-button {
+	width: 110px;
+    margin: 0 auto;
+}
+
+#subscribe-part .button {
+	width: 110px;
+	font-size: 14px;
+	padding: 7px 10px;
+	margin-top: 15px !important;
+	
+}
+
+/* -------------------------
+     Subscribe part end
+-------------------------------*/
+
+/* -------------------------
+     Price part end
+-------------------------------*/
+#price-part {
+	margin-bottom: 30px;
+}
+
+#price-part .item {
+	margin-bottom: 50px;
+}
+
+#price-part .item .header h5 {
+	padding: 10px 0;
+}
+
+#price-part .item .price {
+	padding: 22px 0;
+}
+
+#price-part .item .price h3 {
+	font-size: 22px;
+}
+
+#price-part .item .price p {
+	font-size: 11px;
+	margin-bottom: 0px;
+}
+
+#price-part .item ul li {
+	font-size: 13px;
+	padding: 0px 0;
+}
+
+#price-part .item .price-button .button {
+	width: 120px;
+	font-size: 14px;
+	padding: 5px 5px;
+}
+
+#price-part .item-two .header h5 {
+	padding: 10px 0;
+}
+
+#price-part .item-two .price {
+	padding: 22px 0;
+}
+
+#price-part .item-two .price h3 span {
+	font-size: 15.5px;
+}
+
+#price-part .item-two .price h3 {
+	font-size: 22px;
+}
+
+#price-part .item-two .price p {
+	font-size: 11px;
+	margin-bottom: 0px;
+}
+
+#price-part .item-two ul li {
+	font-size: 13px;
+	padding: 0px 0;
+}
+
+#price-part .item-two .price-button {
+	padding-bottom: 25px;
+	padding-top: 0px;
+}
+
+/* -------------------------
+     Price part end
+-------------------------------*/
+
+/* -------------------------
+     Clients part start
+-------------------------------*/
+#client-part {
+	margin-bottom: 50px;
+}
+
+#client-part .client-slider .client .img {
+	height: 100px;
+}
+
+#client-part .client-slider .client .img img {
+	width: 80px;
+	height: 80px;
+}
+
+#client-part .client-slider {
+	width: 100%;
+}
+
+#client-part .client-slider .client {
+	padding-bottom: 15px;
+}
+
+#client-part .client-slider .client .img .shape-icon {
+	width: 30px;
+	height: 30px;
+	line-height: 30px;
+    top: 75px;
+left: 59%;
+border-top-left-radius: 2px;
+}
+
+#client-part .client-slider .client .img .shape-icon i {
+	font-size: 16px;
+}
+
+#client-part .client-slider .client p {
+	font-size: 14px;
+	line-height: 22px;
+	padding: 0 52px;
+	margin-bottom: 10px;
+}
+
+#client-part .client-slider .client .identity h4 {
+	font-size: 17px;
+	margin-bottom: 5px;
+}
+
+#client-part .client-slider .client .identity h6 {
+	font-size: 14px;
+}
+
+#client-part .slick-dots li button {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+/* -------------------------
+     Clients part end
+-------------------------------*/
+
+/* -------------------------
+     Gallery part start
+-------------------------------*/
+
+#gallery-part {
+	padding: 50px 0;
+	background-image:none;
+}
+
+#gallery-part::after {
+	display: none;
+}
+
+#gallery-part .gallery-img .img {
+	margin: 0px;
+	width: 100%;
+}
+
+#gallery-part .gallery-img img {
+	margin-bottom: 15px;
+}
+
+#gallery-part .prev {
+	width: 20px;
+	height: 20px;
+	line-height: 20px;
+	font-size: 14px;
+	top:107% ;
+	left: 250px;
+}
+
+#gallery-part .next {
+	width: 20px;
+	height: 20px;
+	line-height: 20px;
+	font-size: 14px;
+	top:107% ;
+	right:250px;
+}
+
+#gallery-part .slick-slider .slick-list {
+    margin: 0 50px;
+    margin-bottom: 10px;
+    padding: 0 !important;
+}
+
+/* -------------------------
+     Gallery part end
+-------------------------------*/
+
+/* -------------------------
+     Organize part start
+-------------------------------*/
+#organize-part {
+	padding: 50px 0;
+}
+
+#organize-part .title h1{
+    font-size: 27px;
+}
+
+#organize-part .item .iner-item {
+	text-align: center;
+}
+
+#organize-part .item .iner-item p {
+	font-size: 14px;
+	padding: 0 50px;
+}
+
+#organize-part .phn-bg {
+	width: 50%;
+	margin: 0 auto;
+}
+
+#organize-part .item .iner-item {
+	text-align: center !important;
+}
+
+/* -------------------------
+     Organize part end
+-------------------------------*/
+
+/* -------------------------
+     Store part start
+-------------------------------*/
+
+#store-part .blue-bg .white-bg {
+	padding: 15px 15px;
+}
+
+#store-part .blue-bg {
+	width: auto;
+	border-radius: 100px;
+	margin: 0 auto;
+	padding: 20px 20px;
+}
+
+#store-part .sm-res{
+    width: 48%;
+}
+
+#store-part .blue-bg .white-bg .img img{
+    width: 100%;
+}
+
+/* -------------------------
+     Store part end
+-------------------------------*/
+
+/* -------------------------
+     Team part end
+-------------------------------*/
+
+#team-part {
+	padding: 50px 0;
+}
+
+#team-part .title {
+	justify-content: center;
+}
+
+#team-part .item {
+	margin-bottom: 25px !important;
+	width: 65%;
+	margin: 0 auto;
+}
+
+#team-part .item .identity {
+	padding: 27px;
+}
+
+/* -------------------------
+     Team part end
+-------------------------------*/
+
+/* -------------------------
+     Counter part start
+-------------------------------*/
+
+#counter-part .item {
+	padding: 15px 0;
+}
+
+#counter-part .item h1 {
+	font-size: 30px;
+	line-height: 40.6px;
+	margin-bottom: 5px;
+}
+
+#counter-part .item p {
+	font-size: 20px;
+	line-height: 12.2px;
+}
+
+#counter-part .item .dot {
+	display: none;
+}
+
+/* -------------------------
+     Counter part end
+-------------------------------*/
+
+/* -------------------------
+     Footer part start
+-------------------------------*/
+
+#footer-part .overlay .footer-box {
+	padding: 10px;
+}
+
+#footer-part .overlay .footer-box .details{
+    text-align: center;
+}
+
+#footer-part .overlay .footer-box .details h3 {
+	font-size: 24px;
+	margin-bottom: 15px;
+}
+
+#footer-part .overlay .footer-box .details address figure {
+	font-size: 14px;
+	margin-bottom: 10px;
+}
+
+#footer-part .overlay .footer-box .form{
+    margin-top: 20px;
+}
+
+#footer-part .overlay .footer-box .form h3 {
+	font-size: 24px;
+	margin-bottom: 15px;
+    text-align: center;
+}
+
+#footer-part .overlay .footer-box .form .mb-3 .form-control {
+	font-size: 13px;
+	padding: 5px 10px;
+}
+
+#footer-part .overlay .footer-box .form .message-form .form-control {
+	padding: 0px 12px;
+}
+
+#footer-part .overlay .footer-box .form .footer-button {
+	display: flex;
+	justify-content:center;
+}
+
+#footer-part .overlay .footer-box .form .footer-button .button {
+	width: 135px;
+	font-size: 13px;
+	padding: 8px 2px;
+	margin-bottom: 10px;
+}
+
+#footer-part .copy-right span {
+	font-family: 'Poppins', sans-serif;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+	color: rgba(0, 0, 0, .7);
+}
+
+.top-button {
+    bottom: 108px;
+    right: 30px;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 20px;
+}
+
+/* -------------------------
+     Footer part end
+-------------------------------*/
+
+
+/* ============================== */
+}
+
+
+@media (min-width:576px) and (max-width:767px){
+   
+    .title {
+        margin-bottom: 30px;
+    }
+    .title h1 {
+        font-size: 35px;
+        line-height: 40.4px;
+    }
+
+    .title p {
+        font-size: 15px;
+        padding: 0 20px;
+    }
+
+/* -------------------------
+         Nav part start
+-------------------------------*/
+
+nav .navbar-collapse{
+    background: #fff;
+    padding: 15px 0;
+}
+
+nav .nav-item {
+	text-align: center; 
+}
+
+.navbar-light .navbar-nav .nav-link {
+	color: rgba(0,0,0,.55) !important;
+}
+
+nav .nav-button{
+    margin: 0 auto;
+}
+
+nav .navbar-brand img{
+    width: 75%;
+} 
+
+.navbar-light .navbar-toggler {
+	color: rgba(0,0,0,.55);
+	border-color: rgba(0,0,0,.1);
+}
+
+.navbar-light .navbar-toggler {
+	border-color:transparent !important;
+}
+
+.navbar-toggler:focus {
+	text-decoration: none;
+	outline: 0;
+	box-shadow: 0 0 0;
+}
+
+.navbar-toggler-icon {
+	width: 30px;
+    margin-top: 5px;
+}
+
+.nav-scroll {
+	padding: 4px 0;
+}
+
+/* -------------------------
+         Nav part end
+-------------------------------*/
+
+/* -------------------------
+        banner part start
+-------------------------------*/
+#banner-part{
+    margin-bottom: 50px;
+}
+
+#banner-part .overlay .text-part h3 {
+	font-size: 20px;
+	line-height: 21.2px;
+	margin-bottom: 12px;
+}
+
+#banner-part .overlay .text-part {
+	margin-top: 85px;
+}
+
+#banner-part .overlay .text-part h1 {
+	font-size: 25px;
+	line-height: 32.8px;
+	color: #fff;
+	margin-bottom: 20px;
+}
+
+#banner-part .overlay .text-part .banner-button{
+    width: 108px;
+}
+
+#banner-part .overlay .text-part .button {
+	width: 108px;
+	padding: 6px 14px;
+	font-size: 14px;
+	line-height: 20px;
+	text-align: center;
+}
+
+.slick-slide img {
+	width: 60%;
+    margin: 0 auto;
+}
+#banner-part .overlay .phn-img {
+	margin-top: 70px;
+}
+
+#banner-part .overlay .phn-img .prev {
+	width: 25px;
+	height: 25px;
+	line-height: 25px;
+	font-size: 13px;
+	top: 46%;
+	left: 7%;
+    z-index: 2;
+}
+
+#banner-part .overlay .phn-img .next {
+	width: 25px;
+	height: 25px;
+	line-height: 25px;
+	font-size: 13px;
+	top: 46%;
+	right: 7%;
+}
+/* -------------------------
+         banner part end
+-------------------------------*/
+
+/* -------------------------
+         Work part end
+-------------------------------*/
+
+#work-part {
+	margin-bottom: 10px;
+}
+
+#work-part .item .img .shape img {
+	width: 60%;
+}
+
+#work-part .item .img .shape {
+	width: 82px;
+	height: 83px;
+	margin-bottom: 20px;
+}
+
+#work-part .item h4 {
+	font-size: 20px;
+	line-height: 22px;
+	margin-bottom: 15px;
+}
+
+#work-part .item p {
+	font-size: 15px;
+	line-height: 24px;
+	padding: 0 72px;
+    margin-bottom: 35px;
+}
+
+#work-part .item .img .shape-two img {
+	width: 55%;
+}
+
+#work-part .item .img .shape-two {
+	width: 80px;
+	height: 76px;
+	margin-bottom: 20px;
+}
+
+#work-part .item .img .shape-three img {
+	width: 50%;
+}
+
+#work-part .item .img .shape-three {
+	width: 83px;
+	height: 66px;
+	margin-bottom: 20px;
+}
+
+/* -------------------------
+         Work part end
+-------------------------------*/
+
+/* -------------------------
+     Brand part start
+-------------------------------*/
+
+#brand-part {
+	margin-bottom: 50px;
+	padding: 20px 0;
+
+}
+
+#brand-part .brand-slider .brand .img-one{
+    width: 90%;
+}
+
+#brand-part .brand-slider .brand img {
+	margin-left: 20px;
+	margin-bottom: 10px;
+    width: 65%;
+}
+
+/* -------------------------
+     Brand part end
+-------------------------------*/
+
+/* -------------------------
+     Device part start
+-------------------------------*/
+
+#device-part {
+	margin-bottom: 50px;
+	padding-top: 50px;
+}
+
+#device-part .nav-tabs button {
+	font-size: 17px;
+}
+
+#device-part .nav-tabs .nav-link.active::after {
+	width: 68%;
+	height: 2px;
+	bottom: 2px;
+	left: 16px;
+}
+
+#device-part .tab-content {
+	padding-top: 0px;
+}
+
+#device-part .tab-content img{
+	width: 100%;
+}
+
+#device-part .tab-content .tablet-img{
+    width: 60%;
+}
+
+#device-part .tab-content .phone-img{
+    width: 60%;
+}
+
+#device-part .bg-clr {
+	background: none;
+}
+
+/* -------------------------
+     Device part end
+-------------------------------*/
+
+/* -------------------------
+     AppStorm part start
+-------------------------------*/
+#appstorm-part {
+	margin-bottom: 50px;
+}
+
+#appstorm-part .title h1 {
+	text-align: center;
+}
+
+#appstorm-part .details-part p {
+	font-size: 15px;
+	line-height: 22px;
+	width: auto;
+	text-align: justify;
+}
+
+#appstorm-part .details-part .appstorm-button{
+    width: 135px;
+}
+
+#appstorm-part .details-part .button {
+	width: 135px;
+	font-size: 14px;
+	padding: 8px 9px;
+	margin-bottom: 50px;
+	text-align: center;
+}
+
+/* -------------------------
+     AppStorm part end
+-------------------------------*/
+
+/* -------------------------
+     Features part start
+-------------------------------*/
+
+#features-part {
+	background: none;
+    margin-bottom: 130px;
+}
+
+#features-part .reverse{
+    flex-direction: column-reverse;
+}
+
+#features-part .details-part {
+	padding-top: 10px;
+	margin-left: 0px;
+	text-align: center;
+}
+
+#features-part .details-part .title h1 {
+	text-align: center;
+}
+
+#features-part .details-part p {
+	font-size: 15px;
+	line-height: 23px;
+	margin-bottom: 20px;
+	width: auto;
+}
+
+#features-part .accordion-body {
+	font-size: 15px;
+	line-height: 24px;
+	padding: 0;
+	text-align: justify;
+}
+
+.accordion-flush .accordion-item .accordion-button {
+	justify-content: center;
+    font-size: 16px;
+}
+
+#features-part .img-part {
+	padding-top: 80px;
+}
+
+#features-part .img-part .top-img {
+	top: 40px;
+	left: 46%;
+	width: 40%;
+}
+
+#features-part .img-part .bottom-img {
+	bottom: -26px;
+	left: -22px;
+	width: 40%;
+}
+
+/* -------------------------
+     Features part end
+-------------------------------*/
+
+
+/* -------------------------
+     Subscribe part start
+-------------------------------*/
+
+#subscribe-part {
+	padding: 30px 0;
+	margin-bottom: 50px;
+}
+
+#subscribe-part h3 {
+	font-size: 22px;
+	text-align: center;
+}
+
+.input__field {
+	padding: 5px;
+}
+
+.input__label {
+	top: -12%;
+}
+
+.input__field:focus + .input__label, .input__field:not(:placeholder-shown) + .input__label {
+    transform: translate(-.70rem, -75%) scale(0.8);
+    font-size:13px ;
+}
+
+#subscribe-part .subscribe-button{
+    width: 110px;
+    margin: 0 auto;
+}
+
+#subscribe-part .button {
+	width: 110px;
+	font-size: 14px;
+	padding: 7px 10px;
+	margin-top: 15px !important;
+	margin: 0 auto;
+}
+
+/* -------------------------
+     Subscribe part end
+-------------------------------*/
+
+/* -------------------------
+     Price part end
+-------------------------------*/
+#price-part {
+	margin-bottom: 30px;
+}
+
+#price-part .item {
+	margin-bottom: 50px;
+}
+
+#price-part .item .header h5 {
+	padding: 13px 0;
+}
+
+#price-part .item .price {
+	padding: 25px 0;
+}
+
+#price-part .item .price h3 {
+	font-size: 23px;
+}
+
+#price-part .item .price p {
+	font-size: 12px;
+	margin-bottom: 0px;
+}
+
+#price-part .item ul li {
+	font-size: 14px;
+	padding: 2px 0;
+}
+
+#price-part .item .price-button .button {
+	width: 130px;
+	font-size: 15px;
+	padding: 5px 5px;
+}
+
+#price-part .item-two .header h5 {
+	padding: 13px 0;
+}
+
+#price-part .item-two .price {
+	padding: 25px 0;
+}
+
+#price-part .item-two .price h3 span {
+	font-size: 15.5px;
+}
+
+#price-part .item-two .price h3 {
+	font-size: 23px;
+}
+
+#price-part .item-two .price p {
+	font-size: 12px;
+	margin-bottom: 0px;
+}
+
+#price-part .item-two ul li {
+	font-size: 14px;
+	padding: 2px 0;
+}
+
+#price-part .item-two .price-button {
+	padding-bottom: 25px;
+	padding-top: 0px;
+}
+
+/* -------------------------
+     Price part end
+-------------------------------*/
+
+/* -------------------------
+     Clients part start
+-------------------------------*/
+#client-part {
+	margin-bottom: 50px;
+}
+
+#client-part .client-slider .client .img {
+	height: 100px;
+}
+
+#client-part .client-slider .client .img img {
+	width: 85px;
+	height: 85px;
+}
+
+#client-part .client-slider {
+	width: 100%;
+}
+
+#client-part .client-slider .client {
+	padding-bottom: 15px;
+}
+
+#client-part .client-slider .client .img .shape-icon {
+	width: 30px;
+	height: 30px;
+	line-height: 30px;
+    top: 75px;
+    left: 56%;
+    border-top-left-radius: 2px;
+}
+
+#client-part .client-slider .client .img .shape-icon i {
+	font-size: 16px;
+}
+
+#client-part .client-slider .client p {
+	font-size: 15px;
+	line-height: 22px;
+	padding: 0 30px;
+	margin-bottom: 15px;
+    margin-top: 10px;
+}
+
+#client-part .client-slider .client .identity h4 {
+	font-size: 18px;
+	margin-bottom: 7px;
+}
+
+#client-part .client-slider .client .identity h6 {
+	font-size: 15px;
+}
+
+#client-part .slick-dots li button {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+/* -------------------------
+     Clients part end
+-------------------------------*/
+
+/* -------------------------
+     Gallery part start
+-------------------------------*/
+
+#gallery-part {
+	padding: 50px 0;
+	background-image:none;
+}
+
+#gallery-part::after {
+	display: none;
+}
+
+#gallery-part .gallery-img .img {
+	margin: 0px;
+	width: 100%;
+    opacity: 1;
+    transform: scale(1);
+}
+
+#gallery-part .gallery-img img {
+	margin-bottom: 15px;
+}
+
+#gallery-part .prev {
+	width: 25px;
+	height: 25px;
+	line-height: 25px;
+	font-size: 15px;
+	top: 107%;
+	left: 250px;
+}
+
+#gallery-part .next {
+	width: 25px;
+	height: 25px;
+	line-height: 25px;
+	font-size: 15px;
+	top:107% ;
+	right:250px;
+}
+
+#gallery-part .slick-slider .slick-list {
+    margin: 0 50px;
+    margin-bottom: 10px;
+    padding: 0 !important;
+}
+
+/* -------------------------
+     Gallery part end
+-------------------------------*/
+
+/* -------------------------
+     Organize part start
+-------------------------------*/
+#organize-part {
+	padding: 50px 0;
+}
+
+#organize-part .title h1{
+    font-size: 27px;
+}
+
+#organize-part .item .iner-item {
+	text-align: center;
+}
+
+#organize-part .item .iner-item p {
+	font-size: 15px;
+	padding: 0 50px;
+	margin-top: 10px;
+    line-height: 23px;
+}
+
+#organize-part .phn-bg {
+	width: 50%;
+	margin: 0 auto;
+}
+
+#organize-part .item .iner-item {
+	text-align: center !important;
+}
+
+/* -------------------------
+     Organize part end
+-------------------------------*/
+
+/* -------------------------
+     Store part start
+-------------------------------*/
+
+#store-part .blue-bg .white-bg {
+	padding: 15px 15px;
+}
+
+#store-part .blue-bg {
+	width: auto;
+	border-radius: 100px;
+	margin: 0 auto;
+	padding: 20px 20px;
+}
+
+#store-part .sm-res{
+    width: 48%;
+}
+
+#store-part .blue-bg .white-bg .img{
+    text-align: right;
+}
+
+#store-part .blue-bg .white-bg .img img{
+    width: 90%;
+}
+
+/* -------------------------
+     Store part end
+-------------------------------*/
+
+/* -------------------------
+     Team part end
+-------------------------------*/
+
+#team-part {
+	padding: 50px 0;
+}
+
+#team-part .title {
+	justify-content: center;
+}
+
+#team-part .item {
+	margin-bottom: 25px !important;
+}
+
+#team-part .item .identity {
+	padding: 27px;
+}
+
+/* -------------------------
+     Team part end
+-------------------------------*/
+
+/* -------------------------
+     Counter part start
+-------------------------------*/
+
+#counter-part .item {
+	padding: 15px 0;
+}
+
+#counter-part .item h1 {
+	font-size: 35px;
+	line-height: 40.6px;
+}
+
+#counter-part .item p {
+	font-size: 21px;
+	line-height: 17.2px;
+}
+
+#counter-part .item .dot {
+	display: none;
+}
+
+/* -------------------------
+     Counter part end
+-------------------------------*/
+
+/* -------------------------
+     Footer part start
+-------------------------------*/
+
+#footer-part .overlay .footer-box {
+	padding: 10px;
+}
+
+#footer-part .overlay .footer-box .details{
+    text-align: center;
+}
+
+#footer-part .overlay .footer-box .details h3 {
+	font-size: 24px;
+	margin-bottom: 15px;
+}
+
+#footer-part .overlay .footer-box .details address figure {
+	font-size: 15px;
+	margin-bottom: 15px;
+}
+
+#footer-part .overlay .footer-box .form{
+    margin-top: 20px;
+}
+
+#footer-part .overlay .footer-box .form h3 {
+	font-size: 24px;
+	margin-bottom: 15px;
+    text-align: center;
+}
+
+#footer-part .overlay .footer-box .form .mb-3 .form-control {
+	font-size: 13px;
+	padding: 5px 10px;
+}
+
+#footer-part .overlay .footer-box .form .message-form .form-control {
+	padding: 0px 12px;
+}
+
+#footer-part .overlay .footer-box .form .footer-button {
+	display: flex;
+	justify-content:center;
+}
+
+#footer-part .overlay .footer-box .form .footer-button .button {
+	width: 140px;
+	font-size: 14px;
+	padding: 8px 2px;
+	margin-bottom: 10px;
+}
+
+#footer-part .copy-right span {
+	font-family: 'Poppins', sans-serif;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+	color: rgba(0, 0, 0, .7);
+}
+
+/* -------------------------
+     Footer part end
+-------------------------------*/
+
+
+/* ============================== */
+}
+
+
+@media (min-width:768px) and (max-width:991.98px){
+   
+    .title {
+        margin-bottom: 40px;
+    }
+    .title h1 {
+        font-size: 38px;
+        line-height: 40.4px;
+    }
+
+    .title p {
+        font-size: 16px;
+        padding: 0 20px;
+    }
+
+/* -------------------------
+         Nav part start
+-------------------------------*/
+nav .navbar-collapse{
+    background: #fff;
+    padding: 15px 0;
+}
+
+nav .nav-item {
+	text-align: center; 
+}
+
+.navbar-light .navbar-nav .nav-link {
+	color: rgba(0,0,0,.55) !important;
+}
+
+nav .nav-button{
+    margin: 0 auto;
+}
+
+nav .navbar-brand img{
+    width: 75%;
+} 
+
+.navbar-light .navbar-toggler {
+	color: rgba(0,0,0,.55);
+	border-color: rgba(0,0,0,.1);
+}
+
+.navbar-light .navbar-toggler {
+	border-color:transparent !important;
+}
+
+.navbar-toggler:focus {
+	text-decoration: none;
+	outline: 0;
+	box-shadow: 0 0 0;
+}
+
+.navbar-toggler-icon {
+	width: 30px;
+    margin-top: 5px;
+}
+
+.nav-scroll {
+	padding: 6px 0;
+}
+
+/* -------------------------
+         Nav part end
+-------------------------------*/
+
+/* -------------------------
+        banner part start
+-------------------------------*/
+#banner-part{
+    margin-bottom: 50px;
+}
+
+#banner-part .overlay .text-part h3 {
+	font-size: 23px;
+	line-height: 21.2px;
+	margin-bottom: 17px;
+}
+
+#banner-part .overlay .text-part {
+	margin-top: 125px;
+}
+
+#banner-part .overlay .text-part h1 {
+	font-size: 30px;
+	line-height: 37.8px;
+	color: #fff;
+	margin-bottom: 20px;
+}
+
+#banner-part .overlay .text-part .banner-button{
+    width: 120px;
+}
+
+#banner-part .overlay .text-part .button {
+	width: 120px;
+	padding: 10px 14px;
+	font-size: 15px;
+	line-height: 20px;
+	text-align: center;
+}
+
+.slick-slide img {
+	width: 65%;
+    margin: 0 auto;
+}
+#banner-part .overlay .phn-img {
+	margin-top: 70px;
+}
+
+#banner-part .overlay .phn-img .prev {
+	width: 25px;
+	height: 25px;
+	line-height: 25px;
+	font-size: 13px;
+	top: 46%;
+	left: 7%;
+    z-index: 3;
+}
+
+#banner-part .overlay .phn-img .next {
+	width: 25px;
+	height: 25px;
+	line-height: 25px;
+	font-size: 13px;
+	top: 46%;
+	right: 7%;
+}
+/* -------------------------
+         banner part end
+-------------------------------*/
+
+/* -------------------------
+         Work part end
+-------------------------------*/
+
+#work-part {
+	margin-bottom: 10px;
+}
+
+#work-part .item .img .shape img {
+	width: 60%;
+}
+
+#work-part .item .img .shape {
+	width: 82px;
+	height: 84px;
+	margin-bottom: 20px;
+}
+
+#work-part .item h4 {
+	font-size: 20px;
+	line-height: 22px;
+	margin-bottom: 15px;
+}
+
+#work-part .item p {
+	font-size: 15px;
+	line-height: 24px;
+	padding: 0 125px;
+    margin-bottom: 35px;
+}
+
+#work-part .item .img .shape-two img {
+	width: 55%;
+}
+
+#work-part .item .img .shape-two {
+	width: 80px;
+	height: 76px;
+	margin-bottom: 20px;
+}
+
+#work-part .item .img .shape-three img {
+	width: 50%;
+}
+
+#work-part .item .img .shape-three {
+	width: 84px;
+	height: 66px;
+	margin-bottom: 20px;
+}
+
+/* -------------------------
+         Work part end
+-------------------------------*/
+
+/* -------------------------
+     Brand part start
+-------------------------------*/
+
+#brand-part {
+	margin-bottom: 50px;
+	padding: 20px 0;
+
+}
+
+#brand-part .brand-slider .brand .img-one{
+    width: 90%;
+}
+
+#brand-part .brand-slider .brand img {
+	margin-left: 20px;
+	margin-bottom: 10px;
+    width: 65%;
+}
+
+/* -------------------------
+     Brand part end
+-------------------------------*/
+
+/* -------------------------
+     Device part start
+-------------------------------*/
+
+#device-part {
+	margin-bottom: 50px;
+	padding-top: 50px;
+}
+
+#device-part .nav-tabs button {
+	font-size: 18px;
+}
+
+#device-part .nav-tabs .nav-link.active::after {
+	width: 68%;
+	height: 3px;
+	bottom: 2px;
+	left: 16px;
+}
+
+#device-part .tab-content {
+	padding-top: 0px;
+}
+
+#device-part .tab-content img{
+	width: 100%;
+}
+
+#device-part .tab-content .tablet-img{
+    width: 60%;
+}
+
+#device-part .tab-content .phone-img{
+    width: 60%;
+}
+
+
+/* -------------------------
+     Device part end
+-------------------------------*/
+
+/* -------------------------
+     AppStorm part start
+-------------------------------*/
+#appstorm-part {
+	margin-bottom: 50px;
+}
+
+#appstorm-part .title h1 {
+	text-align: center;
+}
+
+#appstorm-part .details-part p {
+	font-size: 15px;
+	line-height: 24px;
+	width: auto;
+	text-align: justify;
+}
+
+#appstorm-part .details-part .appstorm-button {
+	width: 145px;
+}
+
+#appstorm-part .details-part .button {
+	width: 145px;
+	font-size: 15px;
+	padding: 10px 9px;
+	margin-bottom: 50px;
+	text-align: center;
+}
+
+/* -------------------------
+     AppStorm part end
+-------------------------------*/
+
+/* -------------------------
+     Features part start
+-------------------------------*/
+
+#features-part {
+	background: none;
+    margin-bottom: 210px;
+}
+
+#features-part .reverse{
+    flex-direction: column-reverse;
+}
+
+#features-part .details-part {
+	padding-top: 10px;
+	margin-left: 0px;
+	text-align: center;
+}
+
+#features-part .details-part .title h1 {
+	text-align: center;
+}
+
+#features-part .details-part p {
+	font-size: 15px;
+	line-height: 23px;
+	margin-bottom: 20px;
+	width: auto;
+}
+
+#features-part .accordion-body {
+	font-size: 15px;
+	line-height: 24px;
+	padding: 0;
+}
+
+.accordion-flush .accordion-item .accordion-button {
+	justify-content: center;
+    font-size: 16px;
+}
+
+#features-part .img-part {
+	padding-top: 80px;
+}
+
+#features-part .img-part .top-img {
+	top: 33px;
+	left: 48%;
+	width: 35%;
+}
+
+#features-part .img-part .bottom-img {
+	bottom: -26px;
+	left: -22px;
+	width: 35%;
+}
+
+/* -------------------------
+     Features part end
+-------------------------------*/
+
+
+/* -------------------------
+     Subscribe part start
+-------------------------------*/
+
+#subscribe-part {
+	padding: 50px  0;
+	margin-bottom: 50px;
+}
+
+#subscribe-part h3 {
+	font-size: 24px;
+	text-align: center;
+}
+
+.input__field {
+	padding: 7px;
+}
+
+.input__label {
+	top: -6%;
+}
+
+.input__field:focus + .input__label, .input__field:not(:placeholder-shown) + .input__label {
+    transform: translate(-.70rem, -75%) scale(0.8);
+    font-size:13px ;
+}
+
+#subscribe-part .subscribe-button {
+	width: 110px;
+}
+
+#subscribe-part .button {
+	width: 110px;
+	font-size: 14px;
+	padding: 7px 10px;
+	margin-top: 55px !important;
+	margin: 0 auto;
+}
+
+/* -------------------------
+     Subscribe part end
+-------------------------------*/
+
+/* -------------------------
+     Price part end
+-------------------------------*/
+#price-part {
+	margin-bottom: 30px;
+}
+
+#price-part .row {
+	padding-left: 0;
+	padding-right: 0;
+	--bs-gutter-x: 1.5rem !important;
+}
+
+#price-part .item {
+	margin-bottom: 35px;
+}
+
+#price-part .res-md{
+    margin: 0 auto;
+}
+
+#price-part .item .header h5 {
+	padding: 13px 0;
+}
+
+#price-part .item .price {
+	padding: 25px 0;
+}
+
+#price-part .item .price h3 {
+	font-size: 23px;
+}
+
+#price-part .item .price p {
+	font-size: 12px;
+	margin-bottom: 0px;
+}
+
+#price-part .item ul li {
+	font-size: 14px;
+	padding: 2px 0;
+}
+
+#price-part .item .price-button .button {
+	width: 130px;
+	font-size: 15px;
+	padding: 5px 5px;
+}
+
+#price-part .item-two {
+    box-shadow: .125rem .1875rem .9375rem rgba(0, 0, 0, .15);
+	margin-top: 0px;
+}
+
+#price-part .item-two .header h5 {
+	padding: 13px 0;
+}
+
+#price-part .item-two .price {
+	padding: 25px 0;
+}
+
+#price-part .item-two .price h3 span {
+	font-size: 15.5px;
+}
+
+#price-part .item-two .price h3 {
+	font-size: 23px;
+}
+
+#price-part .item-two .price p {
+	font-size: 12px;
+	margin-bottom: 0px;
+}
+
+#price-part .item-two ul li {
+	font-size: 14px;
+	padding: 2px 0;
+}
+
+#price-part .item-two .price-button {
+	padding-bottom: 25px;
+	padding-top: 0px;
+}
+
+/* -------------------------
+     Price part end
+-------------------------------*/
+
+/* -------------------------
+     Clients part start
+-------------------------------*/
+#client-part {
+	margin-bottom: 50px;
+}
+
+#client-part .client-slider .client .img {
+	height: 100px;
+}
+
+#client-part .client-slider .client .img img {
+	width: 95px;
+	height: 95px;
+    margin-top: 22px;
+}
+
+#client-part .client-slider {
+	width: 100%;
+}
+
+#client-part .client-slider .client {
+	padding-bottom: 25px;
+}
+
+#client-part .client-slider .client .img .shape-icon {
+	width: 35px;
+	height: 35px;
+	line-height: 35px;
+	top: 91px;
+	left: 55%;
+	border-top-left-radius: 2px;
+}
+
+#client-part .client-slider .client .img .shape-icon i {
+	font-size: 16px;
+}
+
+#client-part .client-slider .client p {
+	font-size: 16px;
+	line-height: 25px;
+	padding: 0 100px;
+	margin-bottom: 30px;
+	margin-top: 25px;
+}
+
+#client-part .client-slider .client .identity h4 {
+	font-size: 18px;
+	margin-bottom: 7px;
+}
+
+#client-part .client-slider .client .identity h6 {
+	font-size: 15px;
+}
+
+#client-part .slick-dots li button {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+/* -------------------------
+     Clients part end
+-------------------------------*/
+
+/* -------------------------
+     Gallery part start
+-------------------------------*/
+
+#gallery-part {
+	padding: 50px 0;
+}
+
+#gallery-part::after {
+	display: none;
+}
+
+#gallery-part .gallery-img .img {
+	margin: 0px;
+	width: 100%;
+    opacity: 1;
+    transform: scale(1);
+}
+
+#gallery-part .gallery-img img {
+	margin-bottom: 15px;
+}
+
+#gallery-part .prev {
+	width: 25px;
+	height: 25px;
+	line-height: 25px;
+	font-size: 15px;
+	top: 107%;
+	left: 350px;
+}
+
+#gallery-part .next {
+	width: 25px;
+	height: 25px;
+	line-height: 25px;
+	font-size: 15px;
+	top:107% ;
+	right:348px;
+}
+
+#gallery-part .slick-slider .slick-list {
+    margin: 0 50px;
+    margin-bottom: 10px;
+    padding: 0 !important;
+}
+
+/* -------------------------
+     Gallery part end
+-------------------------------*/
+
+/* -------------------------
+     Organize part start
+-------------------------------*/
+#organize-part {
+	padding: 50px 0;
+}
+
+#organize-part .title h1{
+    font-size: 27px;
+}
+
+#organize-part .item .iner-item {
+	text-align: center;
+}
+
+#organize-part .item .iner-item p {
+	font-size: 15px;
+	padding: 0 170px;
+	margin-top: 10px;
+    line-height: 23px;
+}
+
+#organize-part .phn-bg {
+	width: 50%;
+	margin: 0 auto;
+}
+
+#organize-part .item .iner-item {
+	text-align: center !important;
+}
+
+/* -------------------------
+     Organize part end
+-------------------------------*/
+
+/* -------------------------
+     Store part start
+-------------------------------*/
+
+#store-part .blue-bg .white-bg {
+	padding: 25px 25px;
+}
+
+#store-part .blue-bg {
+	width: auto;
+	border-radius: 100px;
+	margin: 0 auto;
+	padding: 30px 30px;
+}
+
+#store-part .sm-res{
+    width: 48%;
+}
+
+#store-part .blue-bg .white-bg .img{
+    text-align: center;
+}
+
+#store-part .blue-bg .white-bg .img img{
+    width: 75%;
+}
+
+/* -------------------------
+     Store part end
+-------------------------------*/
+
+/* -------------------------
+     Team part end
+-------------------------------*/
+
+#team-part {
+	padding: 50px 0;
+}
+
+#team-part .title {
+	justify-content: center;
+}
+
+#team-part .item {
+	margin-bottom: 25px !important;
+}
+
+#team-part .item .identity {
+	padding: 27px;
+}
+
+#team-part .item .img .img-three {
+	width: 100%;
+}
+/* -------------------------
+     Team part end
+-------------------------------*/
+
+/* -------------------------
+     Counter part start
+-------------------------------*/
+
+#counter-part .item {
+	padding: 30px 0;
+}
+
+#counter-part .item h1 {
+	font-size: 35px;
+	line-height: 40.6px;
+}
+
+#counter-part .item p {
+	font-size: 21px;
+	line-height: 17.2px;
+}
+
+/* -------------------------
+     Counter part end
+-------------------------------*/
+
+/* -------------------------
+     Footer part start
+-------------------------------*/
+#footer-part {
+	height: 380px;
+}
+
+#footer-part .overlay .footer-box {
+	padding: 10px;
+}
+
+
+#footer-part .overlay .footer-box .details h3 {
+	font-size: 24px;
+	margin-bottom: 15px;
+}
+
+#footer-part .overlay .footer-box .details{
+    margin-top: 20px;
+}
+
+#footer-part .overlay .footer-box .details address figure {
+	font-size: 13px;
+	margin-bottom: 15px;
+}
+
+#footer-part .overlay .footer-box .form{
+    margin-top: 20px;
+}
+
+#footer-part .overlay .footer-box .form h3 {
+	font-size: 24px;
+	margin-bottom: 15px;
+    text-align: center;
+}
+
+#footer-part .overlay .footer-box .form .mb-3 .form-control {
+	font-size: 13px;
+	padding: 5px 10px;
+}
+
+#footer-part .overlay .footer-box .form .message-form .form-control {
+	padding: 0px 12px;
+}
+
+#footer-part .overlay .footer-box .form .footer-button {
+	display: flex;
+	justify-content:center;
+}
+
+#footer-part .overlay .footer-box .form .footer-button .button {
+	width: 140px;
+	font-size: 14px;
+	padding: 8px 2px;
+	margin-bottom: 10px;
+}
+
+#footer-part .copy-right span {
+	font-family: 'Poppins', sans-serif;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+	color: #fff;
+}
+
+/* -------------------------
+     Footer part end
+-------------------------------*/
+
+
+/* ============================== */
+}
+
+
+@media (min-width:992px) and (max-width:1199.98px){
+   
+    .title {
+        margin-bottom: 75px;
+    }
+    .title h1 {
+        font-size: 40px;
+        line-height: 45.4px;
+    }
+
+    .title p {
+        font-size: 16px;
+        padding: 0 20px;
+    }
+
+/* -------------------------
+         Nav part start
+-------------------------------*/
+
+nav .navbar-brand img{
+    width: 75%;
+} 
+
+.navbar-light .navbar-toggler {
+	color: rgba(0,0,0,.55);
+	border-color: rgba(0,0,0,.1);
+}
+
+.navbar-light .navbar-toggler {
+	border-color:transparent !important;
+}
+
+.navbar-toggler:focus {
+	text-decoration: none;
+	outline: 0;
+	box-shadow: 0 0 0;
+}
+
+.navbar-toggler-icon {
+	width: 30px;
+    margin-top: 5px;
+}
+
+/* -------------------------
+         Nav part end
+-------------------------------*/
+
+/* -------------------------
+        banner part start
+-------------------------------*/
+#banner-part{
+    margin-bottom: 80px;
+}
+
+#banner-part .overlay .text-part h3 {
+	font-size: 25px;
+	line-height: 21.2px;
+	margin-bottom: 23px;
+}
+
+#banner-part .overlay .text-part {
+	margin-top: 125px;
+}
+
+#banner-part .overlay .text-part h1 {
+	font-size: 50px;
+	line-height: 65.8px;
+	color: #fff;
+	margin-bottom: 30px;
+}
+
+#banner-part .overlay .text-part .button {
+	width: 135px;
+	padding: 12px 20px;
+	font-size: 16px;
+	line-height: 21px;
+	text-align: center;
+}
+
+.slick-slide img {
+	width: 65%;
+    margin: 0 auto;
+}
+#banner-part .overlay .phn-img {
+	margin-top: 70px;
+}
+
+#banner-part .overlay .phn-img .prev {
+	width: 25px;
+	height: 25px;
+	line-height: 25px;
+	font-size: 13px;
+	top: 46%;
+	left: 7%;
+    z-index: 2;
+}
+
+#banner-part .overlay .phn-img .next {
+	width: 25px;
+	height: 25px;
+	line-height: 25px;
+	font-size: 13px;
+	top: 46%;
+	right: 7%;
+}
+/* -------------------------
+         banner part end
+-------------------------------*/
+
+/* -------------------------
+         Work part end
+-------------------------------*/
+
+#work-part {
+	margin-bottom: 35px;
+}
+
+#work-part .item .img .shape img {
+	width: 60%;
+}
+
+#work-part .item .img .shape {
+	width: 82px;
+	height: 84px;
+	margin-bottom: 20px;
+}
+
+#work-part .item h4 {
+	font-size: 20px;
+	line-height: 22px;
+	margin-bottom: 15px;
+}
+
+#work-part .item p {
+	font-size: 15px;
+	line-height: 24px;
+}
+
+#work-part .item .img .shape-two img {
+	width: 55%;
+}
+
+#work-part .item .img .shape-two {
+	width: 80px;
+	height: 76px;
+	margin-bottom: 20px;
+}
+
+#work-part .item .img .shape-three img {
+	width: 50%;
+}
+
+#work-part .item .img .shape-three {
+	width: 84px;
+	height: 66px;
+	margin-bottom: 20px;
+}
+
+/* -------------------------
+         Work part end
+-------------------------------*/
+
+/* -------------------------
+     Brand part start
+-------------------------------*/
+
+#brand-part {
+	margin-bottom: 80px;
+	padding: 38px 0;
+
+}
+
+#brand-part .brand-slider .brand .img-one{
+    width: 90%;
+}
+
+#brand-part .brand-slider .brand img {
+	margin-left: 20px;
+	margin-bottom: 10px;
+    width: 65%;
+}
+
+/* -------------------------
+     Brand part end
+-------------------------------*/
+
+/* -------------------------
+     Device part start
+-------------------------------*/
+
+#device-part {
+	margin-bottom: 80px;
+	padding-top: 80px;
+}
+
+#device-part .nav-tabs button {
+	font-size: 18px;
+}
+
+#device-part .nav-tabs .nav-link.active::after {
+	width: 68%;
+	height: 3px;
+	bottom: 2px;
+	left: 16px;
+}
+
+#device-part .tab-content {
+	padding-top: 0px;
+}
+
+#device-part .tab-content img{
+	width: 100%;
+}
+
+#device-part .tab-content .tablet-img{
+    width: 60%;
+}
+
+#device-part .tab-content .phone-img{
+    width: 60%;
+}
+
+
+/* -------------------------
+     Device part end
+-------------------------------*/
+
+/* -------------------------
+     AppStorm part start
+-------------------------------*/
+#appstorm-part {
+	margin-bottom: 50px;
+}
+
+#appstorm-part .details-part p {
+	font-size: 15px;
+	line-height: 24px;
+	width: auto;
+	text-align: justify;
+}
+
+#appstorm-part .details-part .button {
+	width: 160px;
+	font-size: 15px;
+	padding: 8px 15px;
+	margin-bottom: 50px;
+	text-align: center;
+}
+
+/* -------------------------
+     AppStorm part end
+-------------------------------*/
+
+/* -------------------------
+     Features part start
+-------------------------------*/
+
+#features-part {
+    margin-bottom: 80px;
+    height: 450px;
+}
+
+#features-part .details-part {
+	padding-top: 10px;
+	margin-left: 0px;
+}
+
+#features-part .details-part p {
+	font-size: 15px;
+	line-height: 23px;
+	margin-bottom: 20px;
+	width: auto;
+}
+
+#features-part .accordion-body {
+	font-size: 15px;
+	line-height: 24px;
+	padding: 0;
+}
+
+#features-part .img-part {
+	padding-top: 80px;
+}
+
+#features-part .img-part .top-img {
+	top: 20px;
+	left: 47%;
+	width: 40%;
+}
+
+#features-part .img-part .bottom-img {
+	bottom: -20px;
+	left: -22px;
+	width: 40%;
+}
+
+/* -------------------------
+     Features part end
+-------------------------------*/
+
+
+/* -------------------------
+     Subscribe part start
+-------------------------------*/
+
+#subscribe-part {
+	padding: 80px 0;
+	margin-bottom: 80px;
+}
+
+#subscribe-part h3 {
+	font-size: 26px;
+}
+
+.input__field {
+	padding: 10px;
+}
+
+.input__field:focus + .input__label, .input__field:not(:placeholder-shown) + .input__label {
+    transform: translate(-.70rem, -75%) scale(0.8);
+    font-size:13px ;
+}
+
+#subscribe-part .button {
+	width: 140px;
+	font-size: 15px;
+	padding: 10px 15px;
+	margin-top: 55px !important;
+	margin: 0 auto;
+}
+
+/* -------------------------
+     Subscribe part end
+-------------------------------*/
+
+/* -------------------------
+     Price part end
+-------------------------------*/
+#price-part {
+	margin-bottom: 80px;
+}
+
+#price-part .row {
+	padding-left: 0;
+	padding-right: 0;
+	/* --bs-gutter-x: 1.5rem !important; */
+}
+
+#price-part .item {
+	margin-bottom: 35px;
+}
+
+#price-part .res-md{
+    margin: 0 auto;
+}
+
+#price-part .item .header h5 {
+	padding: 15px 0;
+}
+
+#price-part .item .price {
+	padding: 38px 0;
+}
+
+#price-part .item .price h3 {
+	font-size: 25px;
+}
+
+#price-part .item .price p {
+	font-size: 12px;
+	margin-bottom: 0px;
+}
+
+#price-part .item ul li {
+	font-size: 15px;
+	padding: 5px 0;
+}
+
+#price-part .item .price-button .button {
+	width: 130px;
+	font-size: 15px;
+}
+
+#price-part .item-two .header h5 {
+	padding: 15px 0;
+}
+
+#price-part .item-two .price {
+	padding: 38px 0;
+}
+
+#price-part .item-two .price h3 span {
+	font-size: 15.5px;
+}
+
+#price-part .item-two .price h3 {
+	font-size: 25px;
+}
+
+#price-part .item-two .price p {
+	font-size: 12px;
+	margin-bottom: 0px;
+}
+
+#price-part .item-two ul li {
+	font-size: 15px;
+	padding: 5px 0;
+}
+
+
+/* -------------------------
+     Price part end
+-------------------------------*/
+
+/* -------------------------
+     Clients part start
+-------------------------------*/
+#client-part {
+	margin-bottom: 80px;
+}
+
+#client-part .client-slider .client .img {
+	height: 100px;
+}
+
+#client-part .client-slider .client .img img {
+	width: 120px;
+	height: 120px;
+	margin-top: 22px;
+}
+
+#client-part .client-slider {
+	width: 100%;
+}
+
+#client-part .client-slider .client {
+	padding-bottom: 25px;
+}
+
+#client-part .client-slider .client .img .shape-icon {
+	width: 50px;
+	height: 50px;
+	line-height: 50px;
+	top: 105px;
+	left: 54%;
+	border-top-left-radius: 2px;
+}
+
+#client-part .client-slider .client .img .shape-icon i {
+	font-size: 20px;
+}
+
+#client-part .client-slider .client p {
+	font-size: 19px;
+	line-height: 27px;
+	padding: 0 164px;
+	margin-bottom: 30px;
+	margin-top: 62px;
+}
+
+#client-part .client-slider .client .identity h4 {
+	font-size: 20px;
+	margin-bottom: 7px;
+}
+
+#client-part .client-slider .client .identity h6 {
+	font-size: 15px;
+}
+
+#client-part .slick-dots li button {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+/* -------------------------
+     Clients part end
+-------------------------------*/
+
+/* -------------------------
+     Gallery part start
+-------------------------------*/
+
+#gallery-part {
+	padding: 80px 0;
+}
+
+/* #gallery-part::after {
+	display: none;
+} */
+
+#gallery-part .gallery-img .img {
+	margin: 0px;
+	width: 100%;
+    opacity: .5;
+    transform: scale(0.95);
+}
+
+#gallery-part .slick-center .img {
+	transform: scale(1);
+	opacity: 1;
+}
+
+#gallery-part .gallery-img img {
+	margin-bottom: 15px;
+}
+
+#gallery-part .prev {
+	width: 25px;
+	height: 25px;
+	line-height: 25px;
+	font-size: 15px;
+	top: 115%;
+	left: 448px;
+}
+
+#gallery-part .next {
+	width: 25px;
+	height: 25px;
+	line-height: 25px;
+	font-size: 15px;
+	top: 115%;
+	right: 448px;
+}
+
+#gallery-part .slick-slider .slick-list {
+    margin: 0 50px;
+    margin-bottom: 10px;
+    padding: 0 !important;
+}
+
+/* -------------------------
+     Gallery part end
+-------------------------------*/
+
+/* -------------------------
+     Organize part start
+-------------------------------*/
+#organize-part {
+	padding: 80px 0;
+}
+
+#organize-part .title h1{
+    font-size: 27px;
+}
+
+#organize-part .item .iner-item p {
+	font-size: 15px;
+	margin-top: 10px;
+    line-height: 23px;
+}
+
+#organize-part .phn-bg {
+	margin: 55px 0;
+}
+
+/* -------------------------
+     Organize part end
+-------------------------------*/
+
+/* -------------------------
+     Store part start
+-------------------------------*/
+
+#store-part .blue-bg .white-bg {
+	padding: 48px 48px;
+}
+
+#store-part .blue-bg {
+	width: auto;
+	border-radius: 150px;
+	margin: 0 auto;
+	padding: 48px 48px;
+}
+
+#store-part .sm-res{
+    width: 48%;
+}
+
+#store-part .blue-bg .white-bg .img{
+    text-align: center;
+}
+
+#store-part .blue-bg .white-bg .img img{
+    width: 75%;
+}
+
+/* -------------------------
+     Store part end
+-------------------------------*/
+
+/* -------------------------
+     Team part end
+-------------------------------*/
+
+#team-part {
+	padding: 80px  0;
+}
+
+#team-part .title {
+	justify-content: center;
+}
+
+#team-part .item {
+	margin-bottom: 25px !important;
+}
+
+#team-part .item .identity {
+	padding: 27px;
+}
+
+#team-part .item .img .img-three {
+	width: 100%;
+}
+/* -------------------------
+     Team part end
+-------------------------------*/
+
+/* -------------------------
+     Counter part start
+-------------------------------*/
+
+#counter-part .item {
+	padding: 80px  0;
+}
+
+#counter-part .item h1 {
+	font-size: 35px;
+	line-height: 40.6px;
+}
+
+#counter-part .item p {
+	font-size: 21px;
+	line-height: 17.2px;
+}
+
+/* -------------------------
+     Counter part end
+-------------------------------*/
+
+/* -------------------------
+     Footer part start
+-------------------------------*/
+#footer-part {
+	height: 430px;
+}
+
+#footer-part .overlay .footer-box {
+	padding: 48px;
+}
+
+#footer-part .overlay .footer-box .details h3 {
+	font-size: 25px;
+	margin-bottom: 22px;
+}
+
+#footer-part .overlay .footer-box .details address figure {
+	font-size: 15px;
+	margin-bottom: 16px;
+}
+
+#footer-part .overlay .footer-box .form h3 {
+	font-size: 25px;
+	margin-bottom: 22px;
+}
+
+#footer-part .overlay .footer-box .form .mb-3 .form-control {
+	font-size: 13px;
+	padding: 5px 10px;
+}
+
+#footer-part .overlay .footer-box .form .message-form .form-control {
+	padding: 0px 12px;
+}
+
+#footer-part .overlay .footer-box .form .footer-button .button {
+	width: 160px;
+	font-size: 15px;
+	padding: 10px 15px;
+	margin-bottom: 10px;
+}
+
+#footer-part .copy-right span {
+	font-family: 'Poppins', sans-serif;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+	color: #fff;
+}
+
+/* -------------------------
+     Footer part end
+-------------------------------*/
+
+
+/* ============================== */
+}
