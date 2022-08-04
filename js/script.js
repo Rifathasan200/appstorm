@@ -30,7 +30,7 @@ $(function(){
         
         prevArrow:'<i class="fa-solid fa-angle-left prev"></i>',
         nextArrow:'<i class="fa-solid fa-angle-right next"></i>',
-        // autoplay:true,
+        autoplay:true,
         responsive: [
             {
               breakpoint: 992,
